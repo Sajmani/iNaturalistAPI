@@ -24,7 +24,7 @@ If you use a Mac w/ an Apple processor but run into dependency build issues w/ m
 1. Uninstall the version of node listed in `.nvmrc`, e.g. `nvm use 18 && nvm uninstall 20.15.1`
 1. Quit your terminal
 1. Get info on your terminal app and check `Open using Rosetta`
-1. Open your termainl
+1. Open your terminal
 1. Clear the nvm cache: `nvm cache clear`
 1. `nvm install`
 1. Quit the terminal
